@@ -1,3 +1,3 @@
 # github-workflow
 
-conflict from * iss1
+conflict from ** iss1
